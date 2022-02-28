@@ -1,0 +1,1 @@
+const wait = (ms) => new Promise((resolve) => {setTimeout(ms, resolve)});

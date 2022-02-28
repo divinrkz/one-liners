@@ -5,3 +5,6 @@ JavaScript, TypeScript, Python, Rust, Java, Ruby,  C, C++ and more ...
 
 ### TYPESCRIPT
 - `wait`: Waits for a specific amount of time in milliseconds.
+
+### JAVASCRIPT
+- `wait`: Waits for a specific amount of time in milliseconds.
